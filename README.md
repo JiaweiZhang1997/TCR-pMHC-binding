@@ -7,11 +7,11 @@ If you have any suggestions or questions, feel free to [open an issue](https://g
 
 🙏 Thanks for your support! ❤️  
 
-***
+---
 
 This repository is designed to collect tools, datasets, papers, etc. that contribute to TCR-pMHC binding prediction.
 
-***
+---
 
 ### Papers Related to Biological Mechanisms
 
@@ -31,7 +31,7 @@ Using molecular dynamics simulations to interrogate T cell receptor non-equilibr
 
 Peptide–MHC binding reveals conserved allosteric sites in MHC Class I- and Class II-Restricted T Cell Receptors [paper](https://www.sciencedirect.com/science/article/pii/S002228362030615X?via%3Dihub)
 
-***
+---
 
 ### Associated Laboratories
 
